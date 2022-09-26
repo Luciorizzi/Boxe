@@ -10,7 +10,9 @@ function App() {
       <div>
         <Forms />
       </div>
-      <footer></footer>
+      <footer>
+        
+      </footer>
     </html>
   );
 }
