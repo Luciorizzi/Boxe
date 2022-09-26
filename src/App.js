@@ -11,6 +11,10 @@ function App() {
         <Forms />
       </div>
       <footer>
+        <p className="footer_item">soporteboxe@gmail.com</p>
+        <p className="footer_item">011 7360-3596</p>
+        <img className="footer_item" src="https://i.imgur.com/4gVSUZz.png?1"></img>
+        <img className="footer_item" src="https://i.imgur.com/oBYoLfY.png?1"></img>
         
       </footer>
     </html>

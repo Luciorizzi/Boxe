@@ -6,11 +6,14 @@
 .form_item {
     margin: 40px;
     padding: 10px;
+    border-radius: 12px;
+
 }
 .form_textarea{
     display: flex;
     margin:auto;
     resize: none;
+    border-radius: 12px;
 }
 .form_button{
     background-color: #0049B8;
@@ -18,4 +21,5 @@
     width: 9rem;
     margin-top: 2rem;
     color: white;
+    border-radius: 12px;
 }

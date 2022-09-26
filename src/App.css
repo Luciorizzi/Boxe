@@ -24,13 +24,25 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
+
 h1{
   color: black;
 }
 
+footer{
+  background-color: #0049B8;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 2rem;
+  margin-top: 2rem;
+  height: 4rem;
+}
+.footer_item{
+  height: 30px;
+  padding-top: 1rem;
+  padding-right: 2rem ;
+
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
