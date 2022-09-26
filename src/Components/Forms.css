@@ -1,0 +1,21 @@
+.form_container {
+    display: block;
+    
+}
+
+.form_item {
+    margin: 40px;
+    padding: 10px;
+}
+.form_textarea{
+    display: flex;
+    margin:auto;
+    resize: none;
+}
+.form_button{
+    background-color: #0049B8;
+    height: 3rem;
+    width: 9rem;
+    margin-top: 2rem;
+    color: white;
+}
