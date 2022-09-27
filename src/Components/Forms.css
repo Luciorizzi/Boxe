@@ -14,6 +14,8 @@
     margin:auto;
     resize: none;
     border-radius: 12px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 .form_button{
     background-color: #0049B8;
