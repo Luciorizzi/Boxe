@@ -1,5 +1,12 @@
 .form_container {
+<<<<<<< HEAD
   display: block;
+=======
+    display: block;
+   
+    
+
+>>>>>>> 2fb6e441c11f873c7613fb75e097a29cd705a289
 }
 
 .form_item {
@@ -7,6 +14,7 @@
   padding: 10px;
   border-radius: 12px;
 }
+<<<<<<< HEAD
 .form_textarea {
   display: flex;
   margin: auto;
@@ -22,4 +30,14 @@
   margin-top: 2rem;
   color: white;
   border-radius: 12px;
+=======
+.form_textarea{
+    display: flex;
+    margin:auto;
+    resize: none;
+    border-radius: 12px;
+    padding-top: 10px;
+    padding-left: 10px;
+
+>>>>>>> 2fb6e441c11f873c7613fb75e097a29cd705a289
 }

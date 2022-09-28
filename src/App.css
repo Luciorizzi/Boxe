@@ -28,8 +28,18 @@ h1 {
   color: black;
 }
 
+<<<<<<< HEAD
 footer {
   background-color: #0049b8;
+=======
+.boxe_footer{
+  height: 4rem;
+  width: 8rem;
+  padding-top: 1.5rem;
+}
+footer{
+  background-color: #0049B8;
+>>>>>>> 2fb6e441c11f873c7613fb75e097a29cd705a289
   display: flex;
   justify-content: space-between;
   padding-left: 2rem;
