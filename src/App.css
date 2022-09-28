@@ -24,32 +24,30 @@
   color: white;
 }
 
-
-h1{
+h1 {
   color: black;
 }
 
-footer{
-  background-color: #0049B8;
+footer {
+  background-color: #0049b8;
   display: flex;
   justify-content: space-between;
   padding-left: 2rem;
   margin-top: 8rem;
   height: 4rem;
 }
-.footer_item{
+.footer_item {
   height: 30px;
   padding-top: 1rem;
-  padding-right: 2rem ;
-
+  padding-right: 2rem;
 }
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100&display=swap");
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 /*body {
@@ -63,7 +61,7 @@ footer{
 footer {
   position: relative;
   width: 100%;
-  background: #0048BB;
+  background: #0048bb;
   min-height: 100px;
   padding: 20px 50px;
   display: flex;
@@ -72,16 +70,17 @@ footer {
   align-items: center;
 }
 
-footer .social_icon, footer .menu {
+footer .social_icon,
+footer .menu {
   position: relative;
   display: flex;
-  justify-content:center;
-  align-items:center;
+  justify-content: center;
+  align-items: center;
   margin: 10px 0;
-  
 }
 
-footer .social_icon li, footer .menu li {
+footer .social_icon li,
+footer .menu li {
   list-style: none;
 }
 footer .social_icon li a {
@@ -110,7 +109,7 @@ footer .menu li a:hover {
   color: #fff;
 }
 p {
-  color : #eee;
+  color: #eee;
   text-align: center;
   margin-top: 15px;
   margin-bottom: 10px;
@@ -124,8 +123,7 @@ footer .wave {
   left: 0;
   width: 100%;
   height: 100px;
-  background: url(https://i.imgur.com/cIJIFdg.png
-  );
+  background: url(https://i.imgur.com/cIJIFdg.png);
   background-size: 1000px 100px;
 }
 
@@ -157,20 +155,20 @@ footer .wave#wave4 {
 }
 
 @keyframes animateWave {
-  0%{
-    background-position-x: 1000px; 
+  0% {
+    background-position-x: 1000px;
   }
-  100%{
-    background-position-x: 0px; 
+  100% {
+    background-position-x: 0px;
   }
 }
 
 @keyframes animateWave_02 {
-  0%{
-    background-position-x: 0px; 
+  0% {
+    background-position-x: 0px;
   }
-  100%{
-    background-position-x: 1000px; 
+  100% {
+    background-position-x: 1000px;
   }
 }
 
