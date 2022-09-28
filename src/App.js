@@ -17,10 +17,9 @@ function App() {
     <div class="wave" id="wave3"></div>
     <div class="wave" id="wave4"></div>
   </div>
-<<<<<<< HEAD
+
   <img  className="boxe_footer" src="https://i.imgur.com/yGBBMAI.jpg"/>
-=======
->>>>>>> 7575a3473bbee00892a341fc3befbdb85edfd446
+
   <ul class="social_icon">
 
     <li><a href="mailto:soporteboxe@gmail.com"><img src="https://i.imgur.com/zSww71r.png?1" alt="email"></img></a></li>
