@@ -23,3 +23,11 @@
   color: white;
   border-radius: 12px;
 }
+@media (max-width: 480px) {
+  .form_container {
+    margin-left: 0.3rem;
+  }
+  .form_textarea {
+    width: 20rem;
+  }
+}
